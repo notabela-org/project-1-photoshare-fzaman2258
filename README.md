@@ -46,11 +46,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-<<<<<<< HEAD
     Copyright [2021] [Farhan Zaman]
-=======
-    Copyright [Farhan Zaman] [2021]
->>>>>>> 566e8c4dd2bc97a56ddc564c0e4e61b46446485a
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
