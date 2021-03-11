@@ -25,7 +25,8 @@ The following **optional** features are implemented:
 - [x] Posts view is paginated
 - [ ] A User can submit and accept friend requests
 - [ ] A User cannot see another user's post unless they are friends
-- [x] A user can reset their password if they forgot (will likely require adding email to sign up)
+- [x] A user can reset their password if they forgot (will likely require adding email to sign up) 
+**There is a caveat, that I didn't include my own gmail account as the one to send emails for password resets, but if included it will work**
 
 ## TESTING
 Code Coverage: [insert_coverage_here]
