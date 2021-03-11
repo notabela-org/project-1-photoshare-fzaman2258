@@ -2,7 +2,7 @@
 # Project 1 | **PhotoShare**
 
 **PhotoShare** - A simple PhotoSharing Application
-Time spent: **XX** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -10,22 +10,22 @@ The following **required** functionality is completed:
 
 - [X] User can sign up to create a new account
 - [X] User can log in and log out of her account
-- [ ] Each user has a profile page that shows her username, profile photo, short bio and all their posts
-- [ ] A Logged in user can edit her profile photo, her username and short bio (only hers but not others)
-- [ ] A Logged in User can create a new post by uploading a photo and adding a description
+- [x] Each user has a profile page that shows her username, profile photo, short bio and all their posts
+- [x] A Logged in user can edit her profile photo, her username and short bio (only hers but not others)
+- [x] A Logged in User can create a new post by uploading a photo and adding a description
 - [ ] A Logged in User can add a comment on a post
-- [ ] A Logged in User can view all the posts submitted on the platform, each posts shows the post's user's username and profile photo, when the post was created, the post's photo, the description and number of comments
-- [ ] Tapping on a post's user's username or profile photo goes to that user's profile page
+- [x] A Logged in User can view all the posts submitted on the platform, each posts shows the post's user's username and profile photo, when the post was created, the post's photo, the description and number of comments
+- [x] Tapping on a post's user's username or profile photo goes to that user's profile page
 - [ ] A Logged in user can view all the comments on a post, each comment shows the username and profile photo of the user who posted the comment and the date the comment was posted
-- [ ] Anonymous users (unathenticated users) can only access the sign up and login pages
+- [x] Anonymous users (unathenticated users) can only access the sign up and login pages
 
 The following **optional** features are implemented:
 
 - [ ] A Logged In User can like and Unlike posts (might require some javascript to work properly)
-- [ ] Posts view is paginated
+- [x] Posts view is paginated
 - [ ] A User can submit and accept friend requests
 - [ ] A User cannot see another user's post unless they are friends
-- [ ] A user can reset their password if they forgot (will likely require adding email to sign up)
+- [x] A user can reset their password if they forgot (will likely require adding email to sign up)
 
 ## TESTING
 Code Coverage: [insert_coverage_here]
